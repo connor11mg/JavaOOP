@@ -1,0 +1,255 @@
+RC0001
+CH0001
+Very skillful coach!
+5
+
+RC0002
+CH0001
+The class is nice but the coach is a little bit strict.
+4
+
+RC0003
+CH0001
+The coach is very patient.
+5
+
+RC0004
+CH0001
+The coach is very friendly and polite.
+5
+
+RC0005
+CH0001
+I got scolded.
+1
+
+RC0006
+CH0002
+The coach is good but unpunctual.
+4
+
+RC0007
+CH0005
+This coach is fantastic!
+4
+
+RC0008
+CH0019
+A great teacher!
+4
+
+RC0009
+CH0018
+Overall satisfied.
+5
+
+RC0010
+CH0017
+Great sportsmanship.
+5
+
+RC0011
+CH0016
+Caring and detailed person.
+5
+
+RC0012
+CH0015
+High recommendable coach!
+5
+
+RC0013
+CH0014
+Great!
+5
+
+RC0014
+CH0013
+Very experienced and detailed!
+5
+
+RC0015
+CH0012
+National training level provided to us!
+5
+
+RC0016
+CH0011
+Nothing to complain!
+5
+
+RC0017
+CH0010
+Very satisfied!
+5
+
+RC0018
+CH0009
+My friend's recommendation is not bad!
+5
+
+RC0019
+CH0008
+Very detailed and caring person!
+5
+
+RC0020
+CH0007
+Fun but too strict.
+4
+
+RC0021
+CH0006
+Excellent and strict coach.
+4
+
+RC0022
+CH0005
+Was late to class.
+2
+
+RC0023
+CH0004
+Overall excellent.
+4
+
+RC0024
+CH0003
+Skillful person.
+5
+
+RC0025
+CH0002
+was late to class.
+3
+
+RC0026
+CH0001
+Overall satisfied.
+4
+
+RC0027
+CH0001
+Skillful coach.
+5
+
+RC0028
+CH0002
+fun!
+4
+
+RC0029
+CH0003
+Strict and skillful
+4
+
+RC0030
+CH0004
+fun and interesting class!
+4
+
+RC0031
+CH0005
+overall great.
+4
+
+RC0032
+CH0006
+trusted and recommended!
+4
+
+RC0033
+CH0007
+Short-tempered person.
+1
+
+RC0034
+CH0008
+Bullseye!
+4
+
+RC0035
+CH0009
+Helped my friend own the competition!
+4
+
+RC0036
+CH0010
+Very satisfied!
+4
+
+RC0037
+CH0011
+Patience and skillful
+4
+
+RC0038
+CH0012
+A professional coach
+4
+
+RC0039
+CH0013
+Nothing to complain about.
+4
+
+RC0040
+CH0014
+this coach is on fire!
+4
+
+RC0041
+CH0015
+Satisfied!
+5
+
+RC0042
+CH0016
+Hey, I would never skip your class!
+5
+
+RC0043
+CH0017
+Quick reaction and smart moves.
+5
+
+RC0044
+CH0018
+A patience teacher
+5
+
+RC0045
+CH0019
+Professional!
+5
+
+RC0046
+CH0014
+Rude and terrible
+1
+
+RC0047
+CH0005
+Cursed at me....
+1
+
+RC0048
+CH0007
+Did not promised what it was supposed to last time
+1
+
+RC0049
+CH0013
+Coached my team to championship!
+5
+
+RC0050
+CH0012
+Skillful player and coach!
+5
+
+RC0051
+CH0018
+Nice!
+4
+

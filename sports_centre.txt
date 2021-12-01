@@ -1,0 +1,25 @@
+SC0001
+Centre-Petaling Branch
+Petaling
+Basketball>>Volleyball>>Tennis>>Cricket
+
+SC0002
+Centre-Kuala Selangor Branch
+Kuala Selangor
+Badminton>>Football>>Tennis
+
+SC0003
+Centre-Klang Branch
+Klang
+Swimming>>Archery>>Table Tennis>>Gymnastics
+
+SC0004
+Centre-Sepang Branch
+Sepang
+Swimming>>Volleyball>>Badminton>>Table Tennis
+
+SC0005
+Centre-Hulu Langat Branch
+Hulu Langat
+Basketball>>Badminton>>Archery>>Gymnastics
+

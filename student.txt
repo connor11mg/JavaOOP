@@ -1,0 +1,496 @@
+ST0001
+Koh
+1-1-2002
+Student
+Male
+koh@gmail.com
+020101-16-7654
+016-2134597
+O+
+123456
+What is the name of your secondary school?
+Kuen Cheng
+Where do you live when you were 10 years old?
+Puchong
+light
+
+ST0002
+Johnathon
+6-5-1974
+Lawyer
+Male
+johnathon0506@gmail.com
+740506-54-2642
+012-1568648
+A-
+johnathon1974
+What is your mother's first name?
+Lim
+What is the name of your first pet?
+Kitty
+light
+
+ST0003
+Jadon
+7-7-1995
+Student
+Male
+jadon@hotmail.com
+950707-08-4625
+012-8945131
+AB-
+jadon0707
+What is your favourite animal?
+Dog
+What is the last name of your best friend?
+Brian
+light
+
+ST0004
+Kimberly
+15-11-1990
+Teacher
+Female
+kimberlyyy@gmail.com
+901115-11-4553
+019-8898131
+A-
+kimberly1115
+What is your favourite animal?
+Fish
+What is the name of your first pet?
+Goldeen
+light
+
+ST0005
+Henry
+2-5-1965
+Officer
+Male
+henry0502@outlook.com
+650502-55-4534
+017-9845132
+AB+
+henry1965
+What is your mother's first name?
+Teh
+Where do you live when you were 10 years old?
+Subang
+light
+
+ST0006
+Paul
+18-11-1984
+Supplier
+Male
+paul0118@yahoo.com
+840118-53-7951
+013-7840560
+A-
+paul0118
+What is your favourite animal?
+Turtle
+Where do you live when you were 10 years old?
+Squirtle
+light
+
+ST0007
+Larry
+16-6-1993
+Student
+Male
+larry0616@gmail.com
+930616-41-2546
+016-0489145
+O+
+larry0616
+What is the name of your secondary school?
+SMK Gembira
+What is the last name of your best friend?
+Henry
+light
+
+ST0008
+Isabelle
+6-3-1986
+Model
+Female
+isabelle0306@gmail.com
+860306-47-4626
+016-6548941
+AB-
+isabelle0306
+What is your favourite animal?
+Cat
+What is the name of your first pet?
+Skitty
+light
+
+ST0009
+Jacqueline
+16-6-1976
+Teacher
+Female
+jacqueline0616@hotmail.com
+760616-36-9875
+013-8491564
+B-
+jacqueline0616
+What is your mother's first name?
+Pang
+What is the name of your first pet?
+Pikachu
+light
+
+ST0010
+Haaris
+14-4-1979
+Programmer
+Male
+haaris0414@outlook.com
+790414-29-6541
+019-2217746
+B+
+haaris0414
+What is your favourite animal?
+Bird
+What is the name of your first pet?
+Twitter
+light
+
+ST0011
+Farah
+18-1-1969
+Housewife
+Female
+farah0118@outlook.com
+690118-38-9851
+017-4191561
+A-
+farah0118
+What is your mother's first name?
+Lim
+Where do you live when you were 10 years old?
+Ipoh
+light
+
+ST0012
+Austin
+7-4-1986
+Astronaut
+Male
+austin0407@gmail.com
+860407-09-2148
+019-6845548
+AB+
+austin0407
+What is your favourite animal?
+Tiger
+What is the name of your first pet?
+Litten
+light
+
+ST0013
+Ronaldo
+22-11-1992
+Football Player
+Male
+ronaldo1122@hotmail.com
+921122-38-2645
+019-1844449
+B+
+ronaldo1122
+What is your favourite animal?
+Rabbit
+What is the name of your first pet?
+Scorbunny
+light
+
+ST0014
+Daisy
+31-5-2000
+Student
+Female
+daisy0531@outlook.com
+000531-52-6841
+012-8911612
+O-
+daisy0531
+What is your mother's first name?
+Flora
+Where do you live when you were 10 years old?
+Cheras
+light
+
+ST0015
+Stanley
+18-12-1987
+Gamer
+Male
+stanley1218@yahoo.com
+871218-04-1235
+017-1816155
+AB+
+stanley1218
+What is the name of your secondary school?
+Tokyo Highschool
+What is the last name of your best friend?
+Dinter
+light
+
+ST0016
+Jeremy
+16-3-1981
+Athlete
+Male
+jeremy0316@gmail.com
+810316-06-9816
+018-9521561
+B-
+jeremy0316
+What is your favourite animal?
+Monkey
+What is the name of your first pet?
+Passimian
+light
+
+ST0017
+Spencer
+6-10-1978
+Youtuber
+Male
+spencer1006@gmail.com
+781006-46-2986
+019-4884844
+A-
+spencer1006
+What is your mother's first name?
+Eriri
+Where do you live when you were 10 years old?
+Europe
+light
+
+ST0018
+Elena
+7-2-1995
+Student
+Female
+elena0207@outlook.com
+950207-24-2950
+019-4784545
+A+
+elena0207
+What is your mother's first name?
+How
+What is the last name of your best friend?
+Samuel
+light
+
+ST0019
+Ivan
+19-3-1989
+Photographer
+Male
+ivan0319@gmail.com
+890319-29-0513
+017-4884556
+B-
+ivan0319
+What is your mother's first name?
+Lok
+Where do you live when you were 10 years old?
+Puchong
+light
+
+ST0020
+Karen
+17-7-1983
+Police
+Female
+karen0717@hotmail.com
+830717-16-0646
+012-8945644
+A+
+karen0717
+What is your mother's first name?
+Kaslana
+What is the last name of your best friend?
+Kiana
+light
+
+ST0021
+Danny
+2-7-1991
+Doctor
+Male
+danny0702@outlook.com
+910702-49-0654
+016-3578915
+A+
+danny0702
+What is your mother's first name?
+Chen
+Where do you live when you were 10 years old?
+Kuala Lumpur
+light
+
+ST0022
+Leanna
+19-9-1975
+Housewife
+Female
+leanna0919@hotmail.com
+750919-53-6548
+017-8441654
+A-
+leanna0919
+What is your mother's first name?
+Vladilena
+Where do you live when you were 10 years old?
+San Magnolian
+light
+
+ST0023
+Robbie
+7-4-1994
+Actress
+Female
+robbie0407@outlook.com
+940407-04-3182
+019-3716156
+A+
+robbie0407
+What is your mother's first name?
+Margot
+What is the last name of your best friend?
+Joker
+light
+
+ST0024
+Zakir
+28-7-1988
+Data Analyst
+Male
+zakir0728@outlook.com
+880728-14-0642
+012-6875644
+A+
+zakir0728
+What is your favourite animal?
+Hamster
+What is the name of your first pet?
+Castform
+light
+
+ST0025
+Julian
+5-11-1991
+Officer
+Male
+julian1105@outlook.com
+911105-32-3518
+012-9846515
+O+
+julian1105
+What is your mother's first name?
+Caesar
+What is the name of your first pet?
+Tauros
+light
+
+ST0026
+Abigail
+9-11-1986
+Video Editor
+Female
+abigail1109@yahoo.com
+861109-49-1285
+017-1679845
+AB+
+abigail1109
+What is your mother's first name?
+Tee
+Where do you live when you were 10 years old?
+Puchong
+light
+
+ST0027
+Charlton
+24-4-1984
+Engineer
+Male
+charlton0424@gmail.com
+850424-39-8231
+019-9456415
+A+
+charlton0424
+What is your favourite animal?
+Fox
+What is the name of your first pet?
+Vulpix
+light
+
+ST0028
+Harlow
+19-3-1973
+Scientist
+Female
+harlow0319@hotmail.com
+730319-01-8423
+019-4896511
+A+
+harlow0319
+What is your mother's first name?
+Ichigyo
+What is the last name of your best friend?
+Katagaki
+light
+
+ST0029
+Kelly
+3-9-1992
+Writer
+Female
+kelly0903@gmail.com
+920903-14-0324
+016-1654213
+A-
+kelly0903
+What is the name of your secondary school?
+Choong Wen
+Where do you live when you were 10 years old?
+Subang
+light
+
+ST0030
+Lilly
+9-11-1999
+Studdent
+Female
+lilly1109@gmail.com
+991109-26-1916
+017-8915646
+A+
+lilly1109
+What is your favourite animal?
+Frog
+What is the name of your first pet?
+Poliwhirl
+light
+
+ST0031
+testing
+30-9-2010
+Teacher
+Male
+testing@email.com
+abc123456
+021356465
+A+
+123456
+What is the name of your secondary school?
+KC
+What is the name of your first pet?
+dog
+light
+
